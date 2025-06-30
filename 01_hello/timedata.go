@@ -12,7 +12,7 @@ func main() {
         msg := fmt.Sprintf(
                 "Hello, my name is %s. Current date is %s",
                 name,
-                date.Format("January 2, 2006"),
+                date.Format("November 11, 2000"),
         )
 
         fmt.Println(msg)
